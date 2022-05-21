@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@sqf/utils": "^0.0.2"
-  }
+  },
+  "gitHead": "6197077450a40c068d27609a5df7e9192ef895ed"
 }
