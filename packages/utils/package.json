@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://npm.intra.xiaojukeji.com"
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
