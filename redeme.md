@@ -67,3 +67,6 @@ lerna exec --scope @sqf/core --  rm -rf ./**/node_modules
 
 
 * `lerna run test` - 运行npm命令
+
+
+* `lerna publish --registry https://registry.npmjs.org/`
