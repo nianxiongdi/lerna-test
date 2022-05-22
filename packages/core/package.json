@@ -1,6 +1,6 @@
 {
   "name": "@sqf/core",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "nianxiongdi <41629087+nianxiongdi@users.noreply.github.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@sqf/utils": "^0.0.4"
+    "@sqf/utils": "^0.0.5"
   },
   "gitHead": "355a9737a7dc9427bb7bcfbf37362a692ac653d5"
 }
